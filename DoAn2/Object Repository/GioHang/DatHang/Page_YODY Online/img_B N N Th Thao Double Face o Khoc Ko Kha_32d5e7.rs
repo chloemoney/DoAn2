@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_B N N Th Thao Double Face o Khoc Ko Kha_32d5e7</name>
+   <tag></tag>
+   <elementGuidId>3529aeed-34cf-4404-9b84-cf9c2d18c4ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2) > div.relative.overflow-hidden.product-card_image_wrapper__tFqr_ > div.relative > img.object-cover.w-full.product-card_image__9h71i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Áo Thu Đông Nữ Giữ Nhiệt Cổ 3cm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ae7f18db-03e7-47de-b5e9-2ad84fea8f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Áo Thu Đông Nữ Giữ Nhiệt Cổ 3cm</value>
+      <webElementGuid>7b25b809-f709-463b-b689-7344a79c6ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>bab5c335-b341-4b9d-ad12-5d2f7fca9a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>720</value>
+      <webElementGuid>b6317c26-d617-4b31-a2f2-04883de43da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>960</value>
+      <webElementGuid>b6c55e37-aef8-418a-9909-62c858d27cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>bb072640-3370-42e2-9e54-311964f243ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nimg</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6aba38d8-9ee1-46b0-add5-b7e3d2f13516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>object-cover w-full product-card_image__9h71i</value>
+      <webElementGuid>8f4674f4-5898-478d-a7af-38f6cacd9854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-giu-nhiet-nu-ATN7026-HOD%20%20(1).jpg</value>
+      <webElementGuid>e8082523-64b0-4cf7-bd48-8569cb2ea702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_144c19&quot;]/div[2]/main[@class=&quot;relative&quot;]/div[1]/div[@class=&quot;space-y-4 lg:space-y-5 py-4 lg:py-5&quot;]/div[2]/div[1]/div[@class=&quot;overflow-hidden&quot;]/div[@class=&quot;md:container mx-auto&quot;]/div[@class=&quot;ProductSection_container-tab-wrapper__ShPhJ&quot;]/div[2]/div[@class=&quot;ProductSection_products-wrapper-tab__YV0aL&quot;]/a[2]/div[@class=&quot;relative overflow-hidden product-card_image_wrapper__tFqr_&quot;]/div[@class=&quot;relative&quot;]/img[@class=&quot;object-cover w-full product-card_image__9h71i&quot;]</value>
+      <webElementGuid>b9265ac8-9500-43f0-b5d1-c0fc1112534a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Áo Thu Đông Nữ Giữ Nhiệt Cổ 3cm']</value>
+      <webElementGuid>69046a12-b7be-41e5-8bd3-14ce8ea3ed87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div/img</value>
+      <webElementGuid>b5b2bce9-5b3f-4fb8-968e-7566c9b8b4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Áo Thu Đông Nữ Giữ Nhiệt Cổ 3cm' and @src = 'https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-giu-nhiet-nu-ATN7026-HOD%20%20(1).jpg']</value>
+      <webElementGuid>ed226135-29ea-483e-9c72-4d9ed0e07ef2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

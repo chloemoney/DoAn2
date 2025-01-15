@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TimKiemTuKhoa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df79f1ca-8f47-4b2a-8002-6234d0f2545a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>65d3a8d7-fcb8-4d66-a91a-bfe3d195063c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65d3a8d7-fcb8-4d66-a91a-bfe3d195063c</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

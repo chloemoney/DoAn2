@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Thanh toan bng tin mt</name>
+   <tag></tag>
+   <elementGuidId>680d1adf-9a35-41b8-809f-44c14093131d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/main/div[2]/div[1]/div[2]/div/div[1]/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88f23134-fba1-4f4f-841c-8fa044819821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> btn btn-solid btn-solid-primary btn-solid-3d-primary w-full h-[48px]</value>
+      <webElementGuid>7eceb08c-8e2d-4ad3-b382-c2cf9b598a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>hook-form</value>
+      <webElementGuid>f46c41cd-7130-417b-a663-62fd6d9bec31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán bằng tiền mặt</value>
+      <webElementGuid>9d362ceb-44d2-4eb1-97b3-52f76973bb00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_144c19 checkout-layout&quot;]/div[2]/main[@class=&quot;relative&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;flex justify-around&quot;]/div[@class=&quot;xlg:container xlg:mx-auto w-full xlg:max-w-[1332px] xlg:px-0 bg-yd-gray-20 xlg:bg-transparent&quot;]/div[@class=&quot;w-full flex flex-col xlg:flex-row xlg:gap-3&quot;]/div[@class=&quot;flex flex-col w-full xlg:w-[777px]  pr-0 xlg:pr-[56px] xlg:pb-10 xlg:pl-[168px] xlg:col-span-10 xlg:pt-5&quot;]/div[@class=&quot;xlg:static bg-white pb-5 px-4 xlg:p-0 w-full z-20&quot;]/button[@class=&quot;btn btn-solid btn-solid-primary btn-solid-3d-primary w-full h-[48px]&quot;]</value>
+      <webElementGuid>79c5e087-7df3-4cfa-9c3d-a94dbd4a60a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ví điện tử VNPAY'])[1]/following::button[1]</value>
+      <webElementGuid>cad98860-80aa-4ff5-8a18-af0af6660377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thẻ quốc tế'])[1]/following::button[1]</value>
+      <webElementGuid>25d04070-9047-411d-9f97-2d794cec65c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đảm bảo thanh toán an toàn và bảo mật'])[1]/preceding::button[1]</value>
+      <webElementGuid>92371262-b5e0-49fe-a0c8-fba3eb4f3d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>1da7db67-8b2a-4a76-91f6-9d072f4d19f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@form = 'hook-form' and (text() = 'Thanh toán bằng tiền mặt' or . = 'Thanh toán bằng tiền mặt')]</value>
+      <webElementGuid>ca459306-ce90-4657-b88e-d191a68f093b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

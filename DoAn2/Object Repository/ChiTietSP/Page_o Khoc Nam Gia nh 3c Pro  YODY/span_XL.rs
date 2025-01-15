@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_XL</name>
+   <tag></tag>
+   <elementGuidId>c995ca67-af33-473e-8cab-300fc611705c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='size-7-2']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#size-7-2 > div.product-size-chip_wrapper__YtxBw.product-size-chip_normal__qVMqQ > span.font-medium.text-yd-button-text-5.text-current</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>259a5981-58ef-456c-ba34-ffce286a3ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium text-yd-button-text-5 text-current</value>
+      <webElementGuid>396043cb-42ef-443c-a866-a8ff83ee4f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XL</value>
+      <webElementGuid>4381a2b9-8414-433f-a3a8-f65fe6b12203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;size-7-2&quot;)/div[@class=&quot;product-size-chip_wrapper__YtxBw product-size-chip_normal__qVMqQ&quot;]/span[@class=&quot;font-medium text-yd-button-text-5 text-current&quot;]</value>
+      <webElementGuid>19a95c81-7f77-4d7b-ba98-21f19143a469</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='size-7-2']/div/span</value>
+      <webElementGuid>6f93b987-575a-4113-88e0-cd6f22ffb2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/following::span[1]</value>
+      <webElementGuid>a8ceb324-3523-43d9-9d9e-5e059e3522f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::span[2]</value>
+      <webElementGuid>ad285465-2df0-401b-978b-34632f73747c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/preceding::span[3]</value>
+      <webElementGuid>67d730d4-e741-43e1-a9e7-7189a7eb7962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm vào giỏ'])[1]/preceding::span[4]</value>
+      <webElementGuid>5ae7fc0c-cb8a-4fc7-8cc9-95a0410c8d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='XL']/parent::*</value>
+      <webElementGuid>03d24c6f-9624-44f1-bde3-30a5bd5e6e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>401b012e-4525-4fee-a9ef-e963da6dcc06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'XL' or . = 'XL')]</value>
+      <webElementGuid>b07dd1c7-c47d-4781-a8e5-7e309660c724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

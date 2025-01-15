@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cp nht</name>
+   <tag></tag>
+   <elementGuidId>15296179-3137-4ca3-a574-6a3e592ef84f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c4ecf2c-f6ba-4465-b3e3-86a6bdf22f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> btn btn-extra-large btn-solid-primary w-full</value>
+      <webElementGuid>a9d3dc36-0c34-4f00-9be5-39092684c5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cập nhật</value>
+      <webElementGuid>428691a7-1ab5-468d-a5c4-6f11076fa220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra8:&quot;)/div[@class=&quot;xmd:flex xmd:flex-row xmd:gap-5 xmd:mx-5&quot;]/div[@class=&quot;relative flex-grow flex flex-col gap-6 px-4 xmd:px-0&quot;]/div[@class=&quot;py-3 xmd:py-0&quot;]/button[@class=&quot;btn btn-extra-large btn-solid-primary w-full&quot;]</value>
+      <webElementGuid>1d5b1ff5-db38-4d32-8246-99bbc6c3c87b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra8:']/div/div[2]/div[2]/button</value>
+      <webElementGuid>99890762-6efb-4b1e-be71-c9c87c70dcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/following::button[3]</value>
+      <webElementGuid>16c08feb-3bc0-496e-9c1b-4c29e6f9b024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[1]/following::button[3]</value>
+      <webElementGuid>d997ed7b-2c56-451e-8ca2-8b104b8d4259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>dfc12075-47b5-47e1-90d3-1967673d39a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cập nhật' or . = 'Cập nhật')]</value>
+      <webElementGuid>ae4e3476-78ab-4a08-a451-34aeb0bcd58b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

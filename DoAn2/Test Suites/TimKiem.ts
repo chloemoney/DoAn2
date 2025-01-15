@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TimKiem</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>57bc80cc-2301-479a-a163-78b130450a9d</testSuiteGuid>
+   <testCaseLink>
+      <guid>5b08f595-3909-48f6-bc8f-74775e824553</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TimKiem/TimKiemTuKhoa</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>65d3a8d7-fcb8-4d66-a91a-bfe3d195063c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c1ced035-3caa-43dd-9cd0-aed0720c15ca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TimKiem/TimKiemTuKhoa</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ab2b376c-80b3-4f40-9ae8-a8a8acd9c519</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TimKiem</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ab2b376c-80b3-4f40-9ae8-a8a8acd9c519</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>search</value>
+         <variableId>65d3a8d7-fcb8-4d66-a91a-bfe3d195063c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

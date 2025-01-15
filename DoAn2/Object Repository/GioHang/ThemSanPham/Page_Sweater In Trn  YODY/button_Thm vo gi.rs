@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Thm vo gi</name>
+   <tag></tag>
+   <elementGuidId>5821950f-3fa2-4427-bd3e-b43654bdf005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-template-call-to-action']/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-extra-large.btn-outline.btn-outline-default.product-call-to-action_add-cart_button__LDbeA</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d3f93ac5-22fd-40bf-a6a1-e8583bbf8136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> btn btn-extra-large btn-outline btn-outline-default product-call-to-action_add-cart_button__LDbeA</value>
+      <webElementGuid>c7389d0b-525c-4f6f-962a-ba1a38a301b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm vào giỏ</value>
+      <webElementGuid>703c6360-c809-4227-86f6-2c4b61e1d37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-template-call-to-action&quot;)/div[@class=&quot;product-call-to-action_wrapper__TNhYj&quot;]/div[@class=&quot;product-call-to-action_quantity-and-add-cart__C_QYg&quot;]/div[@class=&quot;product-call-to-action_add-cart__GDPqK&quot;]/button[@class=&quot;btn btn-extra-large btn-outline btn-outline-default product-call-to-action_add-cart_button__LDbeA&quot;]</value>
+      <webElementGuid>a9ea8a4f-eedd-49f2-8b19-9f34da43ffd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-template-call-to-action']/div/div/div[2]/button</value>
+      <webElementGuid>842e6bb9-cb19-4b37-8ac9-ffe3eb294eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/following::button[3]</value>
+      <webElementGuid>e859f615-946c-4968-929e-8e1887daaa9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bảng kích thước'])[1]/following::button[3]</value>
+      <webElementGuid>1b9252dc-b785-43fa-b118-218a4a5933fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay'])[1]/preceding::button[1]</value>
+      <webElementGuid>7bf3b781-f96a-4a1f-bfa5-1ccac28a15d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>83162cea-a572-449d-b13b-e97fcf64b8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Thêm vào giỏ' or . = 'Thêm vào giỏ')]</value>
+      <webElementGuid>9a5acc88-e906-4f3d-bb6a-52e03d943646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

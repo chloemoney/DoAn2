@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ghi_product-color-chip_box__QcjDW produ_7c5d37</name>
+   <tag></tag>
+   <elementGuidId>5f06ccbf-33bf-4d06-8598-6222b1aa32c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='color-524-3']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#color-524-3 > div.product-color-chip_wrapper__R9FQA > div.product-color-chip_box__QcjDW.product-color-chip_hover__E_ee2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>943c4dd5-50e5-4d4d-b55a-2d169f4b3243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-color-chip_box__QcjDW product-color-chip_hover__E_ee2</value>
+      <webElementGuid>1871337e-0b58-4162-9ea8-f008728cdee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;color-524-3&quot;)/div[@class=&quot;product-color-chip_wrapper__R9FQA&quot;]/div[@class=&quot;product-color-chip_box__QcjDW product-color-chip_hover__E_ee2&quot;]</value>
+      <webElementGuid>23a4a801-b889-41b2-874c-84e71cfda771</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='color-524-3']/div/div</value>
+      <webElementGuid>11f7a80d-d3a9-4e5f-bb8d-1d1003b1cb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[4]/div/div</value>
+      <webElementGuid>bafc900c-a477-4d20-8d7d-ae7c9a8b278c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

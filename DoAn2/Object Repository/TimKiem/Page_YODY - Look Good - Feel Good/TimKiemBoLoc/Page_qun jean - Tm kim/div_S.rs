@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S</name>
+   <tag></tag>
+   <elementGuidId>58e41a0f-1aa5-4643-84ac-d24679e5a8eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/main/div[5]/div[2]/div[1]/div/div/div[4]/div[3]/div/div[2]/div/div/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86522d77-2c0b-42de-bff6-db40f13b8b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-span-1 flex items-center justify-center p-3 xlg:p-2 cursor-pointer rounded-lg hover:bg-yd-grey-light-2 text-yd-typo-label hover:text-yd-typo-title border border-yd-line-normal</value>
+      <webElementGuid>89615c63-6ed2-45de-8860-107dfbd82364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S</value>
+      <webElementGuid>45c45943-c38a-416c-8a24-e03ef234719c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:r125:&quot;)/div[@class=&quot;grid gap-x-3 md:gap-x-4 xl:gap-x-3 grid-cols-4 xlg:grid-cols-12 xl:grid-cols-24 pb-3 gap-3 xlg:!gap-2 grid-cols-3 xlg:!grid-cols-3 lg:grid-cols-3 xl:grid-cols-3&quot;]/div[@class=&quot;col-span-1 flex items-center justify-center p-3 xlg:p-2 cursor-pointer rounded-lg hover:bg-yd-grey-light-2 text-yd-typo-label hover:text-yd-typo-title border border-yd-line-normal&quot;]</value>
+      <webElementGuid>79798aaa-4eb6-416c-af5b-129f1dd201b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:r125:']/div/div</value>
+      <webElementGuid>8c4f64d1-7ff6-4003-b3c7-0401e96ae07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kích thước'])[1]/following::div[9]</value>
+      <webElementGuid>b1dd9897-2fd0-45f8-92f0-1f6727934730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khác'])[1]/following::div[13]</value>
+      <webElementGuid>fb982141-18a4-4f0e-8817-89e0b4729154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XS'])[1]/preceding::div[2]</value>
+      <webElementGuid>470eecee-93e4-4923-83c4-f8f2ef71ab43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>3ae205c1-2ab6-43af-97b8-b3a6cfb55d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'S' or . = 'S')]</value>
+      <webElementGuid>7fb22d4e-1b5f-45d9-97e9-a9a678952422</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

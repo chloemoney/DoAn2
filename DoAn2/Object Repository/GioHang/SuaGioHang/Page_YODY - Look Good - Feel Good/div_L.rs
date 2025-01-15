@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_L</name>
+   <tag></tag>
+   <elementGuidId>c619f254-f5ba-4052-9ee1-09b6cedfe3e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#size-6-2 > div.product-size-chip_wrapper__YtxBw.product-size-chip_normal__qVMqQ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='size-6-2']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>99ba4a62-5c14-43e0-a821-478d4d002555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-size-chip_wrapper__YtxBw product-size-chip_normal__qVMqQ</value>
+      <webElementGuid>771fef70-edcc-4125-a710-63b9b85c4f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>L</value>
+      <webElementGuid>088b6ab3-4e15-4f09-9197-05f2f095b3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;size-6-2&quot;)/div[@class=&quot;product-size-chip_wrapper__YtxBw product-size-chip_normal__qVMqQ&quot;]</value>
+      <webElementGuid>e115bedf-85bb-4200-9879-90a155a2074c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='size-6-2']/div</value>
+      <webElementGuid>3bad4017-4f46-40f2-8bfd-35c54b0536ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[2]</value>
+      <webElementGuid>e92de61d-6561-44fd-b2dd-7222c9dd592e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::div[4]</value>
+      <webElementGuid>8fdc7e2b-dfe2-44b2-a6df-1e1993099967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[1]/preceding::div[1]</value>
+      <webElementGuid>1a6c4588-2f27-4987-a622-de65ac6dede3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[3]/div</value>
+      <webElementGuid>8b64de88-537c-4b21-a4f9-346b893c69d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'L' or . = 'L')]</value>
+      <webElementGuid>a8bb30ce-f2d5-454a-9d9a-59e54307e490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

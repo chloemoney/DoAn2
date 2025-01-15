@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tt m Gi m_input__l input--default pl-_aa358f</name>
+   <tag></tag>
+   <elementGuidId>66d7af57-67d1-4046-b2eb-4bfed8aacd81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6bd1946b-0de1-4f8a-ba6b-7f440adb9b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> input__l input--default pl-12 pr-12  w-full bg-yd-grey-light-2 hover:bg-yd-grey-light-3 rounded-[1.25rem] text-yd-body-2 focus:border-0  !rounded-[1.25rem] bg-[#F2F5F8] w-full md:h-12 truncate</value>
+      <webElementGuid>d05be402-09cd-466b-99d1-2728b7ff65be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>d4bc62c9-b6b7-4196-af5d-687dbbfc3f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8f65dc7a-2a55-407c-a5d4-f03098edab85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:rsn:&quot;)/header[@class=&quot;h-[4.5rem] md:border-b border-yd-line-divider&quot;]/div[@class=&quot;h-full flex mx-auto justify-between items-center md:container px-4&quot;]/div[@class=&quot;relative w-full md:w-[436px]&quot;]/input[@class=&quot;input__l input--default pl-12 pr-12  w-full bg-yd-grey-light-2 hover:bg-yd-grey-light-3 rounded-[1.25rem] text-yd-body-2 focus:border-0  !rounded-[1.25rem] bg-[#F2F5F8] w-full md:h-12 truncate&quot;]</value>
+      <webElementGuid>328a5fcc-4634-41ca-9d74-c1afdf8237ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>3ba3daac-70c7-44eb-a142-c71a41dca7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:rsn:']/header/div/div/input</value>
+      <webElementGuid>85e88b24-8877-4bf5-9432-69149732b7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/input</value>
+      <webElementGuid>7ec03fe7-b2cc-4195-90cd-26ffd38c5890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Tìm kiếm' and @type = 'text']</value>
+      <webElementGuid>58090e86-c506-44d2-abc4-0f1451d8a6e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

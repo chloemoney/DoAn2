@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_en</name>
+   <tag></tag>
+   <elementGuidId>918b1907-c0aa-4d74-8941-4ef507e80b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/main/div[5]/div[2]/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ecbd2d05-a997-4d77-ae4e-fffddbbd25a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-span-1 flex flex-col items-center pt-2 gap-2 xlg:gap-1 flex-grow cursor-pointer hover:bg-yd-grey-light-2 rounded-lg</value>
+      <webElementGuid>e92a5893-8117-40a1-be45-db90f853f417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đen</value>
+      <webElementGuid>f014f089-533b-469f-9a5c-767b7f1fbd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:r121:&quot;)/div[@class=&quot;grid gap-x-3 md:gap-x-4 xl:gap-x-3 grid-cols-4 xlg:grid-cols-12 xl:grid-cols-24 pt-3 xlg:pt-0 !gap-x-4 gap-4 xlg:!gap-2 !grid-cols-3 xlg:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3&quot;]/div[@class=&quot;col-span-1 flex flex-col items-center pt-2 gap-2 xlg:gap-1 flex-grow cursor-pointer hover:bg-yd-grey-light-2 rounded-lg&quot;]</value>
+      <webElementGuid>6a52fe92-8184-4103-8722-b22203105da3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:r121:']/div/div</value>
+      <webElementGuid>f6409fbe-8e67-4027-b626-882abd6a8350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Màu sắc'])[1]/following::div[9]</value>
+      <webElementGuid>00c96921-c2f5-4567-863d-457a89a73743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unisex'])[1]/following::div[13]</value>
+      <webElementGuid>adf91896-c3a1-46e9-b9a5-985b5b65a704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vàng'])[1]/preceding::div[4]</value>
+      <webElementGuid>856fdc2c-7b83-47c3-b512-3a1fd641ea61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>3592e6b1-aea0-432f-855b-e35b204e1e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Đen' or . = 'Đen')]</value>
+      <webElementGuid>3bc427d8-2f97-4008-992e-d469ae89c657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

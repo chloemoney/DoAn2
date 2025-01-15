@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Nam</name>
+   <tag></tag>
+   <elementGuidId>510de0de-edc0-4107-8d53-0d1953b5dc3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bán chạy'])[1]/following::h3[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7d70044a-2246-4d81-b2a3-3b6f5caa3654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium xlg:font-medium text-yd-highlight-6 xlg:text-yd-button-text-2 xlg:text-yd-typo-title</value>
+      <webElementGuid>2f624099-a722-494c-9238-da24ce763d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nam</value>
+      <webElementGuid>4365353a-41f6-435e-8882-4eb25bbba590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_144c19&quot;]/div[2]/header[@class=&quot;yody-header hidden xlg:block w-full h-[4.5rem] sticky top-0 left-0 bg-white border-b border-yd-line-divider z-30&quot;]/div[@class=&quot;container h-full mx-auto flex justify-between items-center&quot;]/div[@class=&quot;flex items-center gap-8&quot;]/ul[@class=&quot;inline-flex&quot;]/li[3]/a[@class=&quot;inline-block xlg:px-3 xlg:py-2 relative&quot;]/h3[@class=&quot;font-medium xlg:font-medium text-yd-highlight-6 xlg:text-yd-button-text-2 xlg:text-yd-typo-title&quot;]</value>
+      <webElementGuid>76731762-e05a-4d01-835a-44d973a0ce34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bán chạy'])[1]/following::h3[1]</value>
+      <webElementGuid>932304c6-a09e-4c00-b349-9862f9880696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mới về'])[1]/following::h3[2]</value>
+      <webElementGuid>83e1af67-4321-47b3-bd42-f0fab27b1282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nữ'])[1]/preceding::h3[1]</value>
+      <webElementGuid>1d528162-5d4b-4e27-b61c-57b95449b9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trẻ em'])[1]/preceding::h3[2]</value>
+      <webElementGuid>6f000bf9-b49e-411e-8c56-a61ce78ef6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nam']/parent::*</value>
+      <webElementGuid>cf5a0b60-870b-433c-982a-e11674c08d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/h3</value>
+      <webElementGuid>5fbf8c5f-f6de-4b90-9776-a1ce8bc40b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Nam' or . = 'Nam')]</value>
+      <webElementGuid>def8b163-b33c-40c6-ba31-f69a48aaf4da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

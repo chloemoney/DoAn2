@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Blog</name>
+   <tag></tag>
+   <elementGuidId>f1cd6127-2213-4878-ae64-03c0e960b9cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ba8c046a-446a-4760-8bb6-36c72d048650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-regular md:font-regular !font-regular text-yd-subtitle-3 md:text-yd-subtitle-2 text-yd-typo-subtitle group-hover:text-yd-alert-info !text-yd-subtitle-3</value>
+      <webElementGuid>f139e890-7e8f-45a9-9374-fde394e6d8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blog</value>
+      <webElementGuid>9d346889-b7af-4c02-bfc5-39423d3d5843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_144c19&quot;]/div[2]/main[@class=&quot;relative&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;container mx-auto pb-4 md:pb-5&quot;]/div[@class=&quot;flex items-center py-2&quot;]/div[@class=&quot;flex-grow&quot;]/div[@class=&quot;flex items-center flex-wrap&quot;]/div[@class=&quot;inline-flex items-center&quot;]/div[2]/a[@class=&quot;group&quot;]/span[@class=&quot;font-regular md:font-regular !font-regular text-yd-subtitle-3 md:text-yd-subtitle-2 text-yd-typo-subtitle group-hover:text-yd-alert-info !text-yd-subtitle-3&quot;]</value>
+      <webElementGuid>6e394b7d-0805-4ca5-9eb0-a52142513f76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::span[1]</value>
+      <webElementGuid>56ce6f7c-e717-4c1b-b88d-e8ab9330fddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tin hot'])[2]/following::span[2]</value>
+      <webElementGuid>c5960f18-f3d5-443e-bdd5-49c9e60d3282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Về YODY'])[2]/preceding::span[1]</value>
+      <webElementGuid>84d845af-04b3-45da-ac1e-9ede1c432711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Về YODY'])[3]/preceding::span[2]</value>
+      <webElementGuid>973f6c4c-bd14-4670-b674-3d2e4ab5a0e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blog']/parent::*</value>
+      <webElementGuid>9f15b3ca-b5d3-4d21-bc0c-c56978b7fb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>76e7d8a3-a6ef-4fb5-b0c5-b756ed2ba872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Blog' or . = 'Blog')]</value>
+      <webElementGuid>5f3521cc-535c-4652-9ed9-ef8ec2763d86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

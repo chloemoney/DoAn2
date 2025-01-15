@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mua ngay</name>
+   <tag></tag>
+   <elementGuidId>3dfc1284-79b0-4e75-b431-48d80db2e7dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-template-call-to-action']/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-extra-large.btn-solid.btn-solid-primary.btn-solid-3d-primary.product-call-to-action_buy-now_button__eYF3L</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e66379c-7885-4410-8e1a-417154f3b82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> btn btn-extra-large btn-solid btn-solid-primary btn-solid-3d-primary product-call-to-action_buy-now_button__eYF3L</value>
+      <webElementGuid>ae62b3f0-4269-47fe-9f3c-ca9a764ada69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mua ngay</value>
+      <webElementGuid>a0fb81ff-267e-45b0-8a78-0426864f06d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-template-call-to-action&quot;)/div[@class=&quot;product-call-to-action_wrapper__TNhYj&quot;]/button[@class=&quot;btn btn-extra-large btn-solid btn-solid-primary btn-solid-3d-primary product-call-to-action_buy-now_button__eYF3L&quot;]</value>
+      <webElementGuid>c88771bb-f04e-42e6-84ba-57c63da0a45e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-template-call-to-action']/div/button</value>
+      <webElementGuid>99f82319-030a-41eb-9da0-3409be94f308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm vào giỏ'])[1]/following::button[1]</value>
+      <webElementGuid>bf12ff1e-bc7d-40ad-85d2-6b949a63a30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/following::button[4]</value>
+      <webElementGuid>7a833ff2-f332-47a4-b15a-20bbb8248f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đảm bảo thanh toán an toàn và bảo mật'])[1]/preceding::button[1]</value>
+      <webElementGuid>85d0b9d5-19ec-4481-ba66-d54b1d9a1434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>630098b5-855d-4b83-8327-574715bcc372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Mua ngay' or . = 'Mua ngay')]</value>
+      <webElementGuid>cf4f67e8-d865-4dbe-b66c-15f2ac0c8fd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

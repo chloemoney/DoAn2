@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_o Thun ng Nam Gi Nhit C 3cm_object-cove_a1ef8e</name>
+   <tag></tag>
+   <elementGuidId>80d44eda-955e-4bb3-ada3-02d158ab5b44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Sweater In Tràn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > div.relative.overflow-hidden.product-card_image_wrapper__tFqr_ > div.relative > img.object-cover.w-full.product-card_image__9h71i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>71b43d92-83c0-4e64-a5fd-8383ea723ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sweater In Tràn</value>
+      <webElementGuid>28af6a12-96c9-4733-959c-4d142d525af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>f9be8015-d4a6-43e9-bc50-e8007a44c955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>720</value>
+      <webElementGuid>e4df31c8-2793-40b3-8dbe-43a2628ea6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>960</value>
+      <webElementGuid>1ea4bfe9-6797-4a5d-b838-4e4e08fb05a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>93e38b1e-35e5-40a7-805e-5b505ce1a1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nimg</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>a63433a5-e7a7-414d-95f0-f60f1394be67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>object-cover w-full product-card_image__9h71i</value>
+      <webElementGuid>bf4a759c-a809-4e05-a366-21332598bc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-yoguu-sweater-yody-GUA7008-TRA%20(1).JPG</value>
+      <webElementGuid>65adfdce-2f51-4fe2-94ec-597359f04ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_144c19&quot;]/div[2]/main[@class=&quot;relative&quot;]/div[1]/div[@class=&quot;space-y-4 lg:space-y-5 py-4 lg:py-5&quot;]/div[2]/div[1]/div[@class=&quot;overflow-hidden&quot;]/div[@class=&quot;md:container mx-auto&quot;]/div[@class=&quot;ProductSection_container-tab-wrapper__ShPhJ&quot;]/div[2]/div[@class=&quot;ProductSection_products-wrapper-tab__YV0aL&quot;]/a[3]/div[@class=&quot;relative overflow-hidden product-card_image_wrapper__tFqr_&quot;]/div[@class=&quot;relative&quot;]/img[@class=&quot;object-cover w-full product-card_image__9h71i&quot;]</value>
+      <webElementGuid>cf298c15-15fc-47aa-a797-9d687913e3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sweater In Tràn']</value>
+      <webElementGuid>82b82cae-45f9-4a91-851c-2adeb02b5d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div/img</value>
+      <webElementGuid>68b05802-2b1e-4c0c-bf80-bf7663747fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Sweater In Tràn' and @src = 'https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-yoguu-sweater-yody-GUA7008-TRA%20(1).JPG']</value>
+      <webElementGuid>3a1ed71c-543b-480d-826c-de69b4547c4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
